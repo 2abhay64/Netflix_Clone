@@ -181,60 +181,44 @@ Employees: Last but not least, we express our gratitude to our talented and dedi
 We remain committed to fostering innovation, promoting diverse voices, and continuously enhancing the Netflix experience. Your collective support and contributions have been instrumental in shaping Netflix's journey and solidifying its position as a leading global streaming service. Thank you all for being an essential part of our story.
 ## :framed_picture: Screenshots <a name = "Screenshots"></a>
 
+- Log in Screen
+
+![1-log in](https://github.com/2abhay64/Netflix_Clone/assets/120583890/0a3943e8-cddf-4d61-a779-d14f991f7233)
+
 - Home Screen
 
-![](./Screen_Shots/1.jpg)
+![2-home](https://github.com/2abhay64/Netflix_Clone/assets/120583890/2bcbf89c-b482-45b5-b2d6-5c3ed3312fa6)
 
-- Category Screen
 
-![](./Screen_Shots/2.png)
+- Tv Show Screen
 
-- Popular Products Screen
+![3-Tv Show](https://github.com/2abhay64/Netflix_Clone/assets/120583890/4b96f71d-bce9-455b-8da2-61300f908aa8)
 
-![](./Screen_Shots/3.png)
+- Movies Screen
 
-- About and Footer Screen
+![4-Movies](https://github.com/2abhay64/Netflix_Clone/assets/120583890/ce10a6f7-c43b-4a31-9b1f-73b5e6a3f59e)
 
-![](./Screen_Shots/4.png)
 
-- Search Screen
+- My List Screen
 
-![](./Screen_Shots/5.png)
+![5-MyList](https://github.com/2abhay64/Netflix_Clone/assets/120583890/7237e799-e2c7-4137-a76a-948080303a36)
 
-- Single Product and Related Products Screen
 
-![](./Screen_Shots/6.png)
+- Video Screen
 
-- Add to Cart Screen
+![6-Video](https://github.com/2abhay64/Netflix_Clone/assets/120583890/74f2c02e-5b5a-4d37-a16e-77f80f9f4f6d)
 
-![](./Screen_Shots/7.png) 
 
-- Shopping Cart Screen
+- Firebase users Screen
 
-![](./Screen_Shots/8.png)
+ ![7-firebase users](https://github.com/2abhay64/Netflix_Clone/assets/120583890/d29a4aa0-cd1c-42de-998d-ba3474d2a1e8)
 
-- Checkout Screen
 
-![](./Screen_Shots/9.png)
+- MongoDB Connected Screen
 
-- Payment Successfull Screen
+![8-MongoDB connected](https://github.com/2abhay64/Netflix_Clone/assets/120583890/448d19c3-1a5d-4139-b75e-69f92ad945ee)
 
-![](./Screen_Shots/10.png)
 
-- Read More Screen
 
-![](./Screen_Shots/11.png)
-
-- SIGN UP Before Screen
-
-![](./Screen_Shots/12.png)
-
-- SIGN UP After Screen
-
-![](./Screen_Shots/13.png)
-
-- Google Sheet SIGN UP Data Screen
-
-![](./Screen_Shots/14.png)
 
 
